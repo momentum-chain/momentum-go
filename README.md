@@ -1,6 +1,10 @@
-# Momentum
+# Momentum Go
 
-A (still experimental) implementation of the [proof-of-popularity consensus mechanism](https://github.com/momentum-foundation/whitepaper) in Go.
+An experimental implementation of the proof-of-popularity consensus mechanism in Go.
+
+## Whitepaper
+
+Please find the whitepaper in the [whitepaper repository](https://github.com/momentum-foundation/whitepaper)
 
 ## How to buy
 
