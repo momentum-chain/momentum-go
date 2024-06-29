@@ -2,6 +2,12 @@
 
 A (still experimental) implementation of the [proof-of-popularity consensus mechanism](https://github.com/momentum-foundation/whitepaper) in Go.
 
+## How to buy
+
+Momentum is available for trade (pre-sale phase) on the following exchanges:
+
+- [Shitcoin Swap](https://www.shitcoinswap.com/$mnt)
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
