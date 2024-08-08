@@ -4,7 +4,7 @@ An experimental implementation of the proof-of-popularity consensus mechanism in
 
 ## Whitepaper
 
-Please find the whitepaper in the [whitepaper repository](https://github.com/momentum-foundation/whitepaper)
+Please find the whitepaper in the [whitepaper repository](https://github.com/momentum-chain/whitepaper)
 
 ## How to buy
 
